@@ -4,4 +4,4 @@ Technology has become a very important part of our lives and also for the forens
 
 [Techologies forensic sciences](https://www.atascientific.com.au/technologies-forensic-sciences/)
 
-![forensic](https://docs.google.com/document/d/1drSMkiEpPlD5CYDolIvrZAyPJPazUkbsVAF8FmmQPPs/edit#heading=h.fl5ihtnfkznj)
+![forensic](https://www.sciencenewsforstudents.org/wp-content/uploads/2020/05/1030_LL_Forensic_Science.png)
