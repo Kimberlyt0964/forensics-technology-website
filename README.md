@@ -18,7 +18,7 @@ Forensic scientists new to the field have much to look forward to in the coming 
     -Phenom GSR Desktop SEM allows crime labs to search for gunshot residue particles.
     -The Phenom GSR provides fully integrated software and hardware to enhance user-friendliness, reliability and analysis speed.
     -Phenom GSR Perception software is highly intuitive and allows the user to analyse multiple samples automatically.
-    -[Phenom-Desktop-sem](https://www.atascientific.com.au/products/phenom-gsr-desktop-scanning-electron-microscope/)
+    -[https://www.atascientific.com.au/products/phenom-gsr-desktop-scanning-electron-microscope/](https://www.atascientific.com.au/products/phenom-gsr-desktop-scanning-electron-microscope/)
     
 ![PDS](https://www.azonano.com/images/equipments/EquipmentImage_1193.jpg)
 
@@ -31,20 +31,47 @@ Forensic scientists new to the field have much to look forward to in the coming 
 ![ALP](https://possibility.teledyneimaging.com/wp-content/uploads/2017/03/luminol.png)
 
 3.DIGITAL SURVEILLANCE FOR GAMING EQUIPMENT
+    -Criminals sometimes hide data on an Xbox in the hope that a gaming console won’t be seen as a likely evidence target. 
+    -With an XFT Device once the Xbox file system is mounted, an analyst can browse the directory tree, list its contents, open and view files
+    -[Digital-Surveillance-for-gaming-equipment](https://www.sciencedaily.com/releases/2009/04/090430101445.htm)
 
 4.FACIAL RECONSTRUCTION
+    -Facial reconstruction is a method used in the forensic field when a crime involves unidentified remains. 
+    -The process recreates the face of an individual from their skeletal remains through a combination of artistry, anthropology, osteology and anatomy.
+    -There are three main types of facial reconstruction: two-dimensional (photographic prints or drawing), three-dimensional (sculpture or high-res 3D computer image) and superimposition.
 
 5.DNA SEQUENCING
+    -DNA is used to identify both criminals and victims by using trace evidence, such as hair or skin
+    -DNA profiling has become the gold standard in forensic science since the first case more than 30 years ago. It is easier to use DNA today than before due the increase of technology we use today. 
+    -[DNA-Sequencing](https://cen.acs.org/articles/95/i37/Thirty-years-DNA-forensics-DNA.html)
 
 6.AUTOMATED FINGERPRINT IDENTIFICATION
+    -Fingerprint identification allows forensic scientists to compare fingerprints found to an extensive digital database. 
+    -Since fingerprint identification first emerged in the 1980s, automated fingerprint identification systems (AFIS) have become central to the work of police and other law enforcement agencies around the world.
+    -[Automated-fingerprint-identification](https://www.australianpolice.com.au/dactyloscopy/automated-fingerprint-identification-system-afis/)
 
 7.LINK ANALYSIS SOFTWARE
+    -Link analysis is a data analysis method in the network theory that examines the connections or relationships between the network nodes
+    -The connection or relationship can be between any type of node or object like people, organisations, and transactions.
+    -It’s mostly used by financial institutions like banks and insurance and cyber security agencies to uncover criminal networks.
+    -In the same way, government agencies perform link analysis to investigate frauds, improve screening processes, investigate criminal activities, and expose the terrorist network.
+    -[link-analysis-software](https://www.acquireforensics.com/blog/link-analysis-timeline-analysis.html)
 
 8. DRUG TESTING
+    -Presumptive tests (such as color tests) give only an indication of which type of substance is present -- but they can't specifically identify the substance(it can be in powder, liquid or pill form.)
+    -[drug-testing](https://science.howstuffworks.com/forensic-lab-technique.htm#pt2)
 
 9.FIRE TECHNOLOGY
+    -For a fire to occur, three vital components must be present: a fuel source, an oxidant (O2) and a sufficient amount of energy in the form of heat. 
+    -The primary purposes of a fire investigation is to establish the origin of the fire, determine the likely cause, and conclude whether the incident was accidental, natural or deliberate.
+    -[fire-technology](https://aboutforensics.co.uk/fire-investigation/)
 
 10.HIGH-POWERED MICROSCOPES
+    -Much evidence collected at crime scenes isn’t easily identified or analysed by the naked eye, and article size and shape are important metrics for forensics.
+    -[high-powered-microscopes](https://thefutureofthings.com/10468-5-important-tools-used-forensic-scientists/)
 
 11.HIGH-SPEED BALLISTICS PHOTOGRAPHY
+    -Ballistics photography involves taking pictures of bullets being fired from a gun or bullets penetrating their respective targets.
+    -The techniques involved in taking ballistic related photos are similar to those used for any other subject of high-speed photography, such as pictures of splashing liquids or a balloon popping.
+    -[high-speed-ballistics-photography](http://facweb.cs.depaul.edu/sgrais/ballistic_photography.htm)
 
