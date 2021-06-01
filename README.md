@@ -30,5 +30,21 @@ Forensic scientists new to the field have much to look forward to in the coming 
     
 ![ALP](https://possibility.teledyneimaging.com/wp-content/uploads/2017/03/luminol.png)
 
+3.DIGITAL SURVEILLANCE FOR GAMING EQUIPMENT
 
+4.FACIAL RECONSTRUCTION
+
+5.DNA SEQUENCING
+
+6.AUTOMATED FINGERPRINT IDENTIFICATION
+
+7.LINK ANALYSIS SOFTWARE
+
+8. DRUG TESTING
+
+9.FIRE TECHNOLOGY
+
+10.HIGH-POWERED MICROSCOPES
+
+11.HIGH-SPEED BALLISTICS PHOTOGRAPHY
 
