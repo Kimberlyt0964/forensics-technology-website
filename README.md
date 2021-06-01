@@ -11,3 +11,13 @@ Forensic scientists new to the field have much to look forward to in the coming 
 [Investigating future forensics](https://www.aaas.org/investigating-future-forensics)
 
 ![forensics](https://www.corporatecomplianceinsights.com/wp-content/uploads/2019/06/old-new-tech.jpg)
+
+## TECHNOLOGIES FOR MODERN FORENSIC SCIENCES:
+
+1.PHENOM DESKTOP SEM
+    -Phenom GSR Desktop SEM allows crime labs to search for gunshot residue particles.
+    -The Phenom GSR provides fully integrated software and hardware to enhance user-friendliness, reliability and analysis speed.
+    -Phenom GSR Perception software is highly intuitive and allows the user to analyse multiple samples automatically.
+    -[Phenom-Desktop-sem](https://www.atascientific.com.au/products/phenom-gsr-desktop-scanning-electron-microscope/)
+    
+![PDS](https://www.azonano.com/images/equipments/EquipmentImage_1193.jpg)
